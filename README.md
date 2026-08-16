@@ -52,9 +52,8 @@ exports/               # Fichiers CSV pour Power BI
 ## Installation
 
 ```bash
-git clone https://github.com/<ton-user>/<ton-repo>.git
-cd <ton-repo>
-pip install -r requirements.txt
+git clone https://github.com/rayenbouajila/pipeline-ecommerce
+cd pipeline-ecommerce
 ```
 
 Crée un fichier `.env` à la racine avec tes identifiants PostgreSQL :
